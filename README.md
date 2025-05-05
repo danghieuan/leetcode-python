@@ -2,5 +2,38 @@
 
 | # | Title | Difficulty |
 |---| ----- | -------- | 
-|  | **Array** | | 
-|15| [3Sum](https://leetcode.com/problems/3sum) | Medium |
+|  | **Array** | | |
+
+|  | **Two Pointers** | | |
+
+|  | **STACK AND QUEUE** | | |
+
+|  | **GREEDY** | | | 
+
+|  | **HEAP** | | |
+
+|  | **LINKED LIST** | | | 
+
+|  | **GRAPH**| | |
+
+|  | **BFS** | | |
+
+|  | **DFS** | | |
+
+|  | **DJISKTRA** | | |
+
+|  | **UNION FIND** | | |
+
+|  | **TREE** | | |
+
+|  | **BINARY SEARCH TREE** | | |
+
+|  | **BINARY TREE** | | | 
+
+|  | **MATH** | | |
+
+|  | **Dynamic Programming** | | |
+
+|  | **BACKTRACKING** | | |
+
+|  | **DESIGN (SPECIAL TOPIC)** | | |
