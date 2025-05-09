@@ -1,39 +1,73 @@
 # leetcode-python
 
-| # | Title | Difficulty |
-|---| ----- | -------- | 
-|  | **Array** | | |
+## Array
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **Two Pointers** | | |
+## Two Pointers
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **STACK AND QUEUE** | | |
+## Stack and Queue
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **GREEDY** | | | 
+## Greedy
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **HEAP** | | |
+## Heap
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **LINKED LIST** | | | 
+## Linked List
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **GRAPH**| | |
+## Graph
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **BFS** | | |
+## BFS
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **DFS** | | |
+## DFS
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **DJISKTRA** | | |
+## Dijkstra
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **UNION FIND** | | |
+## Union Find
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **TREE** | | |
+## Tree
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **BINARY SEARCH TREE** | | |
+## Binary Search Tree
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **BINARY TREE** | | | 
+## Binary Tree
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **MATH** | | |
+## Math
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **Dynamic Programming** | | |
+## Dynamic Programming
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **BACKTRACKING** | | |
+## Backtracking
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
 
-|  | **DESIGN (SPECIAL TOPIC)** | | |
+## Design (Special Topic)
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
