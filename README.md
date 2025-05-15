@@ -71,3 +71,7 @@
 ## Design (Special Topic)
 | # | Title | Difficulty | Link |
 |---|-------|------------|------|
+
+## SQL - Pandas
+| # | Title | Difficulty | Link |
+|---|-------|------------|------|
