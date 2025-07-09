@@ -1,77 +1,76 @@
-# leetcode-python
-
+# Python solutions for Leetcode
 ## Array
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Two Pointers
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Stack and Queue
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Greedy
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Heap
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Linked List
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Graph
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## BFS
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## DFS
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Dijkstra
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Union Find
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Tree
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Binary Search Tree
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Binary Tree
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Math
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Dynamic Programming
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Backtracking
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## Design (Special Topic)
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
 
 ## SQL - Pandas
-| # | Title | Difficulty | Link |
-|---|-------|------------|------|
+| # | Title | Difficulty | Solution | Basic idea |
+|---|-------|------------|----------|------------|
