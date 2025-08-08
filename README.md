@@ -8,3 +8,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Python]() | Easy | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Python]() | Easy | |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Python]() | Medium | |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python]() | Medium | |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Python]() | Medium | |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Python]() | Medium | |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/) | [Python]() | Easy | |
